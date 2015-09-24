@@ -1,2 +1,2 @@
 # CMU-ACM-ICPC-2015-Training
-Weekly training prep for ACM ICPC at CMU-Fall 2015
+Weekly training prep at CMU for ACM ICPC
